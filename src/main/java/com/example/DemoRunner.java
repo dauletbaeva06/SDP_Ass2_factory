@@ -6,9 +6,6 @@ import com.example.factory.*;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * DemoRunner prepares the output for Factory and Abstract Factory examples.
- */
 public class DemoRunner {
 
     public static List<String> runDemo() {
